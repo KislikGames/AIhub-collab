@@ -1,0 +1,7 @@
+# Конфиг для AIhub
+ai_assistants:
+  - name: DeepSeek-R1
+    role: "Программирование, анализ данных"
+  - name: Perplexity
+    role: "Поиск информации, фактчекинг"
+workflow: manual # Пока ручное управление
